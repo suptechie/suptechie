@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" height = "150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [suptechie](suptechie)
 
